@@ -1,2 +1,25 @@
-# KIT_Runic
-Chantelame Runique
+Voilà un kit inspiré du lore officiel des Chantelameurs mais qui a pris quelques libertés avec les capacités du kit :
+
+# Chantelame Runique (Geurrier elfe)
+
+Avantages
+- +1 à la Dextérité et au Charisme :
+- Il peut lancer Mot de pouvoir : Sommeil une fois par jour aux niveaux 8, 10, 11 et 12.
+- Il peut lancer Mot de pouvoir : Silence une fois par jour aux niveaux 14, 16, 18 et 20.
+- Il peut lancer Mot de pouvoir : Étourdissement une fois par jour aux niveaux 15, 17 et 20.
+- Il peut lancer Mot de pouvoir : Cécité une fois par jour aux niveaux 15, 17 et 20.
+- Il peut lancer Mot de pouvoir : Mort une fois par jour aux niveaux 26, 28 et 30.
+- Il peut lancer Symbole : Terreur aux niveau 15, 17, 19 et 21.
+- Il peut lancer Symbole : Étourdissement aux niveaux 16, 17, 18, 19 et 20.
+- Il peut lancer Symbole : Mort aux niveaux 17, 20 et 25
+- Il peut lancer Rayon de soleil aux niveaux 16, 18 et 21
+- Il peut lancer Protection contre l'Énergie au niveau 18
+- Il peut lancer Immunité absolue au niveau 22 et 26
+- Au niveau 15, Action libre et immunité contre les attaques sournoises.
+- Au niveau 20, immunité contre les sorts de niveau 1.
+- Au niveau 25, immunité contre les sorts de niveau 2.
+
+Inconvénients :
+- -1 en Force et en Constitution
+- Il ne peut porter aucune armure ni aucun bracelet.
+- Il ne peut dépenser que 5* en Katana et 2* en armes à une main.
