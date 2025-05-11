@@ -1,0 +1,5 @@
+- Trayification.
+- Mise à jour pour BG2EE / EET / IWDEE.
+- Traduction française.
+- Le CLABFI06.2DA pouvant être réutilisé par d'autres mods, il est renommé CLABRUNX.2DA.
+- Nettoyage de 3 sorts permanents appliqués qui avaient un nom erroné, une école, un son de casting, etc....
