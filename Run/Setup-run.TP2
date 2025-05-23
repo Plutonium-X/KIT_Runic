@@ -4,6 +4,9 @@ AUTHOR ~www.riklaunim.noi.pl~
 LANGUAGE ~Polish~
 	~Polish~
 	~Run/Languages/Polish/Setup-run.tra~
+LANGUAGE ~English~
+	~English~
+	~Run/Languages/English/Setup-run.tra~
 LANGUAGE ~Francais~
 	~French~
 	~Run/Languages/French/Setup-run.tra~
